@@ -1,0 +1,24 @@
+IEEE RAS VIT Chennai - Past Events and Activities
+
+1. IEEE YESIST12 2024 International Hackathon
+IEEE RAS VIT Chennai congratulated 10 teams who qualified for the Grand Finale of the IEEE YESIST12 2024 International Hackathon, held in Tunisia, after being submitted via IEEE RAS VIT Chennai's direct entry. The teams stood out among 5000+ submissions worldwide. The initiative was led by IEEE YESIST12 Ambassador Shiv Kumar D, with faculty coordinators Dr. Sucheta M and Dr. Balaji V R supporting the qualifying teams, who also received certificates of appreciation. Qualifying teams included Scrappy Kats, Eco Chain Innovators, ECOGROW, Team Trailblazers, Neophytic Techies, Tech Quad, App Crafters, Pregathi, GenLearn, and Wemace.
+
+2. Beyond Basics: An ESP32 Workshop (27-28 Feb 2024)
+A two-day hands-on workshop at VIT Chennai covering Embedded Systems Programming and IoT Integration. Topics included microcontrollers, real-time operating systems, and connecting ESP32/ESP8266 boards to IoT dashboards, sensors, actuators, and communication protocols. Over 70 members were trained with hands-on projects. Co-organized with IoTHINC VIT Chennai.
+
+3. Data Dash (22 Jan 2024)
+A one-day data science event featuring an Introduction to Machine Learning session, a segment on Big Data Handling (data processing, storage, and management), and a Kaggle competition where teams solved real-world data problems. Organized by the IEEE RAS board and organizing team including Derrick Richard, Sukesh S, Sudeesh M, Afzal Ahmed, Jesher Joshua, Shiv Kumar D, Kartik Goyal, and Rithvika Tiruveedhula.
+
+4. Arduino 101 (28 Dec 2023)
+A virtual workshop held on Google Meet introducing participants to Arduino fundamentals using Tinkercad software. Guided by Lakshminaarayanan V S, Sai Eswara M, and Sanjana PRK. Over 200 participants attended, focusing on real-world Arduino applications and innovative projects.
+
+5. Deep Dive into IEEE (1 Nov 2023)
+An interactive session at Kasturba Auditorium, VIT Chennai, with guest speaker Abdul Halik M I, Secretary of IEEE Madras Young Professionals and MD Chair. He shared his experience as an IEEE volunteer and the benefits of IEEE and IEEE RAS membership, encouraging students to get involved in volunteering. Organized with support from Shiv Kumar D, Kartik Goyal, and faculty coordinator Dr. V R Balaji.
+
+6. AWS DeepRacer (5 Oct 2023)
+An autonomous racing challenge held as part of TechnoVIT (VIT Chennai's premier technical fest under BandVIT). Participants used reinforcement learning to train model cars to navigate a track. Over 300 participants took part. Sponsored by C4Scale and Chakravarthy V P. Organized by Ashwin Sivakumar, Derrick Richard, Jesher Joshua, Sonaa Rajagopal, Diya Ravishankar, Shiv Kumar D, and Kartik Goyal, with support from faculty coordinators Dr. V R Balaji and Suchetha M.
+
+7. ISRA (International Symposium on Robotics and Automation)
+IEEE RAS VIT Chennai has organized ISRA, an international symposium under the theme "Explore, Enrich, Evolve," inviting submissions related to robotics and automation research.
+
+IEEE RAS VIT Chennai regularly organizes technical workshops (embedded systems, IoT, Arduino), competitions and hackathons (Data Dash/Kaggle, AWS DeepRacer, YESIST12), and guest talks/interactive sessions with IEEE professionals, often in collaboration with other VIT Chennai clubs and IEEE Madras Young Professionals.
